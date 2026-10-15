@@ -1,19 +1,19 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-15T16:25:37Z",
+  "actualizado": "2026-10-15T22:19:40Z",
   "protocolo_coop": 1,
   "minimo": 0,
   "descargas": {
     "mac": {
-      "version": "v1.5.2",
-      "build": 92,
-      "commit": "b86438a",
-      "fecha": "2026-10-15T16:25:37Z",
-      "notas": "Actualizar con un clic: el botón Actualizar descarga e instala la versión nueva solo.",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-92/PokeSurvivor-Beta-mac.zip",
-      "sha256": "583f5b7b73325ece668f4dd62c23ba3ff947334c83dfe55b5641699a117c8b17",
-      "tam": 108577056,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-92",
+      "version": "v1.5.3",
+      "build": 98,
+      "commit": "f9f8ffe",
+      "fecha": "2026-10-15T22:19:40Z",
+      "notas": "v1.5.3: la app se ve igual que la web (pantalla de inicio, cartas de nivel, volumen, partida nueva con logro Primer compañero).",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-98/PokeSurvivor-Beta-mac.zip",
+      "sha256": "d514ae35f03ed9d5ba9aa168793af7e155b3010e6f52b22926cc05e0c9a431da",
+      "tam": 108579452,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-98",
       "protocolo_coop": 1
     }
   }

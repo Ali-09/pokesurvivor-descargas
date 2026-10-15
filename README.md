@@ -19,6 +19,7 @@ Puedes tener las dos instaladas a la vez. Cada una guarda su partida por separad
 2. Haz doble clic en el zip para descomprimirlo.
 3. **Arrastra `PokeSurvivor-Beta` a la carpeta Aplicaciones.** Si la abres desde Descargas no se podrá actualizar sola.
 4. La primera vez, en Aplicaciones, haz **clic derecho sobre la app > Abrir** y luego **Abrir** otra vez. La app no está firmada por Apple, por eso macOS pregunta. Solo se hace una vez.
+   - **macOS 15 (Sequoia) o más nuevo:** el clic derecho ya no basta. Ábrela una vez (saldrá un aviso, ciérralo), ve a **Ajustes del Sistema > Privacidad y seguridad**, baja hasta el mensaje sobre PokeSurvivor-Beta y pulsa **Abrir igualmente**.
 
 Si macOS dice que la app "está dañada y no se puede abrir", abre la app Terminal, pega esto y pulsa Intro:
 

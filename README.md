@@ -31,6 +31,8 @@ Por ahora no hay versión para Macs con procesador Intel.
 
 ### Windows
 
+> **Todavía no hay versión de Windows publicada.** Si no ves `PokeSurvivor-Beta-windows.zip` en la última versión, aún no está lista. Estos son los pasos para cuando salga.
+
 1. En [Releases](../../releases), descarga **`PokeSurvivor-Beta-windows.zip`**.
 2. Haz clic derecho sobre el zip > **Extraer todo…**, y extráelo en tu carpeta de usuario, por ejemplo en `Documentos`. **No lo pongas en "Archivos de programa"**: ahí no se podría actualizar sola.
 3. Abre la carpeta `PokeSurvivor-Beta` y haz doble clic en `PokeSurvivor-Beta.exe`.

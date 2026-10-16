@@ -1,6 +1,6 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-16T04:55:34Z",
+  "actualizado": "2026-10-16T05:10:49Z",
   "protocolo_coop": 1,
   "minimo": 0,
   "descargas": {
@@ -18,14 +18,14 @@
     },
     "windows": {
       "version": "v1.5.4",
-      "build": 101,
-      "commit": "20b3754",
-      "fecha": "2026-10-16T04:55:34Z",
-      "notas": "v1.5.4: ventana nítida en Windows (DPI per-monitor y textos nítidos en todas las resoluciones)",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-101/PokeSurvivor-Beta-windows.zip",
-      "sha256": "2ad9a894d1007c408aa6972f72aa6b476bd63e6788554ec072ab29be6f58ba5f",
-      "tam": 98618146,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-101",
+      "build": 102,
+      "commit": "40432b3",
+      "fecha": "2026-10-16T05:10:49Z",
+      "notas": "v1.5.4: ventana nítida en Windows y actualizador automático arreglado",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-102/PokeSurvivor-Beta-windows.zip",
+      "sha256": "178494a070f23644be6d92b4af569b5b1d4bde337b9955f21610f4e8432fa8d6",
+      "tam": 98616419,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-102",
       "protocolo_coop": 1
     }
   }

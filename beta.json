@@ -1,19 +1,19 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-16T05:10:49Z",
+  "actualizado": "2026-10-16T15:50:10Z",
   "protocolo_coop": 1,
   "minimo": 0,
   "descargas": {
     "mac": {
-      "version": "v1.5.4",
-      "build": 100,
-      "commit": "71a71e7",
-      "fecha": "2026-10-15T23:04:23Z",
-      "notas": "v1.5.4: nada se sale de su caja, bordes nítidos en Retina y ataques con brillo, estela e impacto.",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-100/PokeSurvivor-Beta-mac.zip",
-      "sha256": "45a3ad0813447e63310d52b69e6faf55639517636350b64592de842d51cf1532",
-      "tam": 108585749,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-100",
+      "version": "v1.5.5",
+      "build": 112,
+      "commit": "d630929",
+      "fecha": "2026-10-16T15:50:10Z",
+      "notas": "v1.5.5: jefe final en el minuto 25 según región y bioma, Laboratorio de pruebas para superusuarios (Ajustes > Laboratorio), nuevos efectos de movimientos y arreglo de monedas/tickets que se perdían al sincronizar",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-112/PokeSurvivor-Beta-mac.zip",
+      "sha256": "2c9087f612a84a7c533c1bf194a7068ee773d1d994d4f9b7b7aeffc83d75c1d5",
+      "tam": 108660241,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-112",
       "protocolo_coop": 1
     },
     "windows": {

@@ -1,6 +1,6 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-17T00:43:19Z",
+  "actualizado": "2026-10-17T01:02:38Z",
   "protocolo_coop": 1,
   "minimo": 0,
   "descargas": {
@@ -18,14 +18,14 @@
     },
     "windows": {
       "version": "v1.5.10",
-      "build": 127,
-      "commit": "8149122",
-      "fecha": "2026-10-17T00:43:19Z",
-      "notas": "v1.5.10: habilidades pasivas para los 966 Pokémon (se ven en la partida bajo la barra de vida y en la Pokédex), Dúo salvaje, Guardián y jefe final",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-127/PokeSurvivor-Beta-windows.zip",
-      "sha256": "3d19b6815721faf378bd5c0529de15d8f10ea780f6c422010a7bb59763aaebfc",
-      "tam": 98741176,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-127",
+      "build": 128,
+      "commit": "6693732",
+      "fecha": "2026-10-17T01:02:38Z",
+      "notas": "v1.5.10: habilidades pasivas, jefe final y actualizador de Windows 100% automático sin bloqueos",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-128/PokeSurvivor-Beta-windows.zip",
+      "sha256": "f70e375fa31753373780cd89de3a19d7027b04495139192fefe204c0c8443cb3",
+      "tam": 98741253,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-128",
       "protocolo_coop": 1
     }
   }

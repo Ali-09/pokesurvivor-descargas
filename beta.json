@@ -1,19 +1,19 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-17T20:12:05Z",
+  "actualizado": "2026-10-17T21:11:07Z",
   "protocolo_coop": 1,
   "minimo": 0,
   "descargas": {
     "mac": {
-      "version": "v1.6.9",
-      "build": 161,
-      "commit": "21b20bb",
-      "fecha": "2026-10-17T20:12:05Z",
-      "notas": "v1.6.9: opción Duelo en el menú principal (abre tu sala para el 1 contra 1), gacha completo a 1280x720 y ventana que cabe en pantallas pequeñas",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-161/PokeSurvivor-Beta-mac.zip",
-      "sha256": "48b344f5dd5af91275662aa667f80432974c1e86798dd8f90921535c1cc11619",
-      "tam": 108805220,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-161",
+      "version": "v1.6.10",
+      "build": 165,
+      "commit": "5ccf617",
+      "fecha": "2026-10-17T21:11:07Z",
+      "notas": "v1.6.10: sala de duelo sólo para dos (VS, rechaza al tercero) y actualización en Windows sin reabrir la versión vieja",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-165/PokeSurvivor-Beta-mac.zip",
+      "sha256": "9e2d9f199922a38cb1bf383d4e1c84a717936dc9f7d8e6a1a110636af12d7e10",
+      "tam": 108807569,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-165",
       "protocolo_coop": 1
     },
     "windows": {

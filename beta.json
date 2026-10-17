@@ -1,19 +1,19 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-17T22:29:13Z",
+  "actualizado": "2026-10-17T22:47:49Z",
   "protocolo_coop": 1,
   "minimo": 0,
   "descargas": {
     "mac": {
-      "version": "v1.6.13",
-      "build": 173,
-      "commit": "2f9aa5c",
-      "fecha": "2026-10-17T22:29:13Z",
-      "notas": "v1.6.13: nueva pantalla de vínculo con vista previa y animación, la pausa muestra tu equipo (movimientos, vínculos, objeto, habilidad, mejoras con totales y efectos temporales), chips de efectos temporales en el HUD",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-173/PokeSurvivor-Beta-mac.zip",
-      "sha256": "3a2b1b7277323ff5278a9f11f2ca33496a85a957424a09e37bb876ec900feeb4",
-      "tam": 108836087,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-173",
+      "version": "v1.6.14",
+      "build": 176,
+      "commit": "ac31145",
+      "fecha": "2026-10-17T22:47:49Z",
+      "notas": "v1.6.14: Windows instala y se actualiza mucho más rápido (sprites en un solo archivo, la versión nueva se abre antes de borrar la vieja), el código de sala se copia en Windows, y «Salir» ya no está en el menú: cerrar sesión está en Ajustes > Cuenta",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-176/PokeSurvivor-Beta-mac.zip",
+      "sha256": "f2bb331d07b2459adf4a78e2afe441910c8636afe212cbd5d752ecb64964da0c",
+      "tam": 89069716,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-176",
       "protocolo_coop": 1
     },
     "windows": {

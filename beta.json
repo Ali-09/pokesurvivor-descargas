@@ -1,6 +1,6 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-17T22:07:24Z",
+  "actualizado": "2026-10-17T22:18:33Z",
   "protocolo_coop": 1,
   "minimo": 0,
   "descargas": {
@@ -17,15 +17,15 @@
       "protocolo_coop": 1
     },
     "windows": {
-      "version": "v1.6.10",
-      "build": 165,
-      "commit": "5ccf617",
-      "fecha": "2026-10-17T21:53:47Z",
-      "notas": "v1.6.10: sala de duelo sólo para dos (VS, rechaza al tercero) y actualización en Windows sin reabrir la versión vieja",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-165/PokeSurvivor-Beta-windows.zip",
-      "sha256": "0d76e658e15c22a035abdc01fbdf2688bac13b3b7d1da0ff547b0782156035e5",
-      "tam": 98845382,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-165",
+      "version": "v1.6.12",
+      "build": 170,
+      "commit": "d9d5814",
+      "fecha": "2026-10-17T22:18:33Z",
+      "notas": "v1.6.12: grietas mucho más frecuentes (la tirada espera al jefe y sube con cada fallo) y HUD rediseñado: textos legibles, vida por colores, objeto visible y movimientos fusionados visibles (la barra se abre con el ratón encima).",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-170/PokeSurvivor-Beta-windows.zip",
+      "sha256": "b2861a4ea5e3ef1d3b61c062f84259b1f4703b1103df2aed36d5484b75286f60",
+      "tam": 98849707,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-170",
       "protocolo_coop": 1
     }
   }

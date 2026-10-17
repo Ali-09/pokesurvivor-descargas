@@ -1,6 +1,6 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-17T01:02:38Z",
+  "actualizado": "2026-10-17T02:49:26Z",
   "protocolo_coop": 1,
   "minimo": 0,
   "descargas": {
@@ -17,15 +17,15 @@
       "protocolo_coop": 1
     },
     "windows": {
-      "version": "v1.5.10",
-      "build": 128,
-      "commit": "6693732",
-      "fecha": "2026-10-17T01:02:38Z",
-      "notas": "v1.5.10: habilidades pasivas, jefe final y actualizador de Windows 100% automático sin bloqueos",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-128/PokeSurvivor-Beta-windows.zip",
-      "sha256": "f70e375fa31753373780cd89de3a19d7027b04495139192fefe204c0c8443cb3",
-      "tam": 98741253,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-128",
+      "version": "v1.5.14",
+      "build": 135,
+      "commit": "317f097",
+      "fecha": "2026-10-17T02:49:26Z",
+      "notas": "v1.5.14: mira de apuntado con ratón como en la web, mayor rendimiento por fotograma y mejoras en textos",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-135/PokeSurvivor-Beta-windows.zip",
+      "sha256": "1ab1f7caf3b023b26bb33053edcde6a96a99b36c8e339aa366cadb2e6b4deec2",
+      "tam": 98773817,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-135",
       "protocolo_coop": 1
     }
   }

@@ -1,19 +1,19 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-17T18:11:45Z",
+  "actualizado": "2026-10-17T18:55:00Z",
   "protocolo_coop": 1,
   "minimo": 0,
   "descargas": {
     "mac": {
-      "version": "v1.6.6",
-      "build": 152,
-      "commit": "f754c62",
-      "fecha": "2026-10-17T18:11:45Z",
-      "notas": "v1.6.6: duelo 1 contra 1, efectos nuevos de los ataques (Lanzallamas, Excavar…), mapa sin huecos y más fluido, y arreglos de partida (objetos que se perdían al subir de nivel, zonas que dañaban tras levantarte, dúo salvaje, trampas en grupo)",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-152/PokeSurvivor-Beta-mac.zip",
-      "sha256": "4527e62a681823ccdcfac2145488b47679bc5e63255ff7245f27aa37a764e882",
-      "tam": 108793391,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-152",
+      "version": "v1.6.7",
+      "build": 155,
+      "commit": "eb73d29",
+      "fecha": "2026-10-17T18:55:00Z",
+      "notas": "v1.6.7: arreglo de los Pokémon que salían como círculos grises (menú, mapa y compañero)",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-155/PokeSurvivor-Beta-mac.zip",
+      "sha256": "d3b99c08ae92061beb110c6fb00bfc6b1869a84b5c0a834fb51defb797b92140",
+      "tam": 108793913,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-155",
       "protocolo_coop": 1
     },
     "windows": {

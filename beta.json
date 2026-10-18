@@ -1,6 +1,6 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-18T00:41:57Z",
+  "actualizado": "2026-10-18T00:51:32Z",
   "protocolo_coop": 1,
   "minimo": 0,
   "descargas": {
@@ -17,15 +17,15 @@
       "protocolo_coop": 1
     },
     "windows": {
-      "version": "v1.6.14",
-      "build": 176,
-      "commit": "ac31145",
-      "fecha": "2026-10-17T22:48:55Z",
-      "notas": "v1.6.14: Windows instala y se actualiza mucho más rápido (sprites en un solo archivo, la versión nueva se abre antes de borrar la vieja), el código de sala se copia en Windows, y «Salir» ya no está en el menú: cerrar sesión está en Ajustes > Cuenta",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-176/PokeSurvivor-Beta-windows.zip",
-      "sha256": "4e9b21c3be33ce3753d6c3ef78fd3c6c3dd06dce87d20ba7d5d3328ae7cb7b9f",
-      "tam": 87328301,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-176",
+      "version": "v1.6.15",
+      "build": 178,
+      "commit": "0954304",
+      "fecha": "2026-10-18T00:51:32Z",
+      "notas": "Relé de respaldo para unirse en cooperativo sin timeout y nombres de movimientos en la Pokédex",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-178/PokeSurvivor-Beta-windows.zip",
+      "sha256": "83482b38fac9d24ceebba2f4a0dba749192971ee82df598816a8c8e7a117829a",
+      "tam": 87340479,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-178",
       "protocolo_coop": 1
     }
   }

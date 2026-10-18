@@ -1,7 +1,7 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-18T19:28:05Z",
-  "protocolo_coop": 2,
+  "actualizado": "2026-10-18T22:37:01Z",
+  "protocolo_coop": 3,
   "minimo": 0,
   "descargas": {
     "mac": {
@@ -18,15 +18,15 @@
     },
     "windows": {
       "version": "v1.6.18",
-      "build": 202,
-      "commit": "ecac677",
-      "fecha": "2026-10-18T19:28:05Z",
-      "notas": "v1.6.18: en grupo, el mismo juego que en solitario (clima sincronizado, jefe final en su arena, grietas); mejor navegación con mando y rendimiento de menús",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-202/PokeSurvivor-Beta-windows.zip",
-      "sha256": "12a49dc0d7bcb2365d07f8b7351f2c4c97b65a6de5746a54bd00da50946e6831",
-      "tam": 91959802,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-202",
-      "protocolo_coop": 2
+      "build": 205,
+      "commit": "0656287",
+      "fecha": "2026-10-18T22:37:01Z",
+      "notas": "Grupo: modo espectador al caer, pausa al elegir objeto o vínculo con botón Seguir jugando, más grietas, amigos en línea al momento y menos tirones en las mareas.",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-205/PokeSurvivor-Beta-windows.zip",
+      "sha256": "31ce0b29248efa2927ff15f2a464b667750fb70b112fed0b69b525efddfb5d30",
+      "tam": 91968387,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-205",
+      "protocolo_coop": 3
     }
   }
 }

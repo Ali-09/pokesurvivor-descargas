@@ -1,6 +1,6 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-18T22:37:01Z",
+  "actualizado": "2026-10-18T23:52:42Z",
   "protocolo_coop": 3,
   "minimo": 0,
   "descargas": {
@@ -18,14 +18,14 @@
     },
     "windows": {
       "version": "v1.6.18",
-      "build": 205,
-      "commit": "0656287",
-      "fecha": "2026-10-18T22:37:01Z",
-      "notas": "Grupo: modo espectador al caer, pausa al elegir objeto o vínculo con botón Seguir jugando, más grietas, amigos en línea al momento y menos tirones en las mareas.",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-205/PokeSurvivor-Beta-windows.zip",
-      "sha256": "31ce0b29248efa2927ff15f2a464b667750fb70b112fed0b69b525efddfb5d30",
-      "tam": 91968387,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-205",
+      "build": 208,
+      "commit": "00a9f5c",
+      "fecha": "2026-10-18T23:52:42Z",
+      "notas": "Partida de 15 min con jefe final a las 15:00 y 4 grietas fijas. Grupo: menos tirones con muchos Pokémon, sin consumo de RAM desbocado con conexiones lentas, sin daño con la pausa abierta. Arreglado un cierre en el Pokédex con mando.",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-208/PokeSurvivor-Beta-windows.zip",
+      "sha256": "c33945b7dde5888b2ee13fbc30df4af69f3cb54a4bda9b4e00d81a83a0e6818a",
+      "tam": 91973532,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-208",
       "protocolo_coop": 3
     }
   }

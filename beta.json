@@ -1,7 +1,7 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-18T01:49:00Z",
-  "protocolo_coop": 1,
+  "actualizado": "2026-10-18T02:04:20Z",
+  "protocolo_coop": 2,
   "minimo": 0,
   "descargas": {
     "mac": {
@@ -17,16 +17,16 @@
       "protocolo_coop": 1
     },
     "windows": {
-      "version": "v1.6.15",
-      "build": 180,
-      "commit": "2f15968",
-      "fecha": "2026-10-18T01:42:45Z",
-      "notas": "Arreglado crash de colisiones de proyectiles en combate",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-180/PokeSurvivor-Beta-windows.zip",
-      "sha256": "31c9691faeeafc2ba72781b9a80b973da9a866076eec0d817d2d20645ce389c8",
-      "tam": 87342308,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-180",
-      "protocolo_coop": 1
+      "version": "v1.6.16",
+      "build": 187,
+      "commit": "2e35559",
+      "fecha": "2026-10-18T02:04:20Z",
+      "notas": "v1.6.16: Versus por equipos, optimización del relé sin lag y mejoras de conexión",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-187/PokeSurvivor-Beta-windows.zip",
+      "sha256": "e15fed33cf759b4a96b72efdb6406b98183fd9229342aea8379f82ceab6c8091",
+      "tam": 87356532,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-187",
+      "protocolo_coop": 2
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-18T02:48:08Z",
+  "actualizado": "2026-10-18T03:23:51Z",
   "protocolo_coop": 2,
   "minimo": 0,
   "descargas": {
@@ -17,15 +17,15 @@
       "protocolo_coop": 2
     },
     "windows": {
-      "version": "v1.6.16",
-      "build": 187,
-      "commit": "2e35559",
-      "fecha": "2026-10-18T02:04:20Z",
-      "notas": "v1.6.16: Versus por equipos, optimización del relé sin lag y mejoras de conexión",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-187/PokeSurvivor-Beta-windows.zip",
-      "sha256": "e15fed33cf759b4a96b72efdb6406b98183fd9229342aea8379f82ceab6c8091",
-      "tam": 87356532,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-187",
+      "version": "v1.6.17",
+      "build": 197,
+      "commit": "56a2f87",
+      "fecha": "2026-10-18T03:23:51Z",
+      "notas": "v1.6.17: música y efectos de la web, sin tirones de sprites, menú de amigos desde el arranque y mejoras de sala",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-197/PokeSurvivor-Beta-windows.zip",
+      "sha256": "217b062bfef3c212c9c25fc8b6d891b2ce28d6ec43bd9e05c75101684f93667e",
+      "tam": 91912173,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-197",
       "protocolo_coop": 2
     }
   }

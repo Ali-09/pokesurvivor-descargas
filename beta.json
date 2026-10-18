@@ -1,20 +1,20 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-18T02:04:20Z",
+  "actualizado": "2026-10-18T02:06:38Z",
   "protocolo_coop": 2,
   "minimo": 0,
   "descargas": {
     "mac": {
-      "version": "v1.6.15",
-      "build": 180,
-      "commit": "2f15968",
-      "fecha": "2026-10-18T01:49:00Z",
-      "notas": "Arregladas las invitaciones a sala y los proyectiles del rival en duelo 1v1",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-180/PokeSurvivor-Beta-mac.zip",
-      "sha256": "f32d0f11225beb3c867d8a71011d5a9acaf11b3ccd35c8fa6079c8b3f8517ee0",
-      "tam": 89082486,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-180",
-      "protocolo_coop": 1
+      "version": "v1.6.16",
+      "build": 187,
+      "commit": "2e35559",
+      "fecha": "2026-10-18T02:06:38Z",
+      "notas": "v1.6.16: versus por equipos hasta 6 (cada uno elige lado), relé de conexión sin retraso, invitaciones en 2 s y botón del Firewall",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-187/PokeSurvivor-Beta-mac.zip",
+      "sha256": "70bb3d22619a61c420ad79788f67808aafaee77a33149b8241cf46f23dac15c5",
+      "tam": 89095666,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-187",
+      "protocolo_coop": 2
     },
     "windows": {
       "version": "v1.6.16",

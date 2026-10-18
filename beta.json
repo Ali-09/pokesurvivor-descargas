@@ -1,19 +1,19 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-18T01:42:45Z",
+  "actualizado": "2026-10-18T01:49:00Z",
   "protocolo_coop": 1,
   "minimo": 0,
   "descargas": {
     "mac": {
       "version": "v1.6.15",
-      "build": 178,
-      "commit": "0954304",
-      "fecha": "2026-10-18T00:41:57Z",
-      "notas": "Relé de respaldo para unirse en cooperativo sin timeout y nombres de movimientos en la Pokédex",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-178/PokeSurvivor-Beta-mac.zip",
-      "sha256": "6d9ae28bc64390f121465a7f4e548728531fbb8b745331696cc85a818b6afd04",
-      "tam": 89080780,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-178",
+      "build": 180,
+      "commit": "2f15968",
+      "fecha": "2026-10-18T01:49:00Z",
+      "notas": "Arregladas las invitaciones a sala y los proyectiles del rival en duelo 1v1",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-180/PokeSurvivor-Beta-mac.zip",
+      "sha256": "f32d0f11225beb3c867d8a71011d5a9acaf11b3ccd35c8fa6079c8b3f8517ee0",
+      "tam": 89082486,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-180",
       "protocolo_coop": 1
     },
     "windows": {

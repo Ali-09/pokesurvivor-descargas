@@ -1,6 +1,6 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-19T21:37:38Z",
+  "actualizado": "2026-10-19T22:07:47Z",
   "protocolo_coop": 3,
   "minimo": 0,
   "descargas": {
@@ -18,16 +18,16 @@
     },
     "windows": {
       "version": "v1.6.18",
-      "build": 218,
-      "commit": "425dc36",
-      "fecha": "2026-10-19T21:37:38Z",
-      "notas": "Instalador de Windows: PokeSurvivor-Beta-windows-instalador.exe crea accesos directos en el escritorio y el menú Inicio y se desinstala desde Aplicaciones. Mando en todas las pantallas y cartel de lo elegido.",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-218/PokeSurvivor-Beta-windows.zip",
-      "sha256": "e7acb23f26160b275b21cb3bf2a82a7047b2765d7848528c28e3ef440b4f07e4",
-      "tam": 92013191,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-218",
+      "build": 219,
+      "commit": "9d32b8b",
+      "fecha": "2026-10-19T22:07:47Z",
+      "notas": "Icono nuevo de la app: una Poké Ball delante de una grieta (exe, ventana, instalador y Mac).",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-219/PokeSurvivor-Beta-windows.zip",
+      "sha256": "aa3d45018255e27db3c7c6c04bb7e0ef11acaccad76ab90d6762b28203e206b1",
+      "tam": 92204368,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-219",
       "protocolo_coop": 3,
-      "instalador": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-218/PokeSurvivor-Beta-windows-instalador.exe"
+      "instalador": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-219/PokeSurvivor-Beta-windows-instalador.exe"
     }
   }
 }

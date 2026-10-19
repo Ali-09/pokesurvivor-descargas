@@ -31,12 +31,16 @@ Por ahora no hay versión para Macs con procesador Intel.
 
 ### Windows
 
-> **Todavía no hay versión de Windows publicada.** Si no ves `PokeSurvivor-Beta-windows.zip` en la última versión, aún no está lista. Estos son los pasos para cuando salga.
+1. En [Releases](../../releases), abre la última versión y descarga **`PokeSurvivor-Beta-windows-instalador.exe`**.
+2. Haz doble clic en él. No pide permiso de administrador: se instala en tu usuario, crea el acceso en el menú Inicio (y en el escritorio si lo dejas marcado) y abre el juego al terminar.
+3. Si Windows muestra "Windows protegió su PC", pulsa **Más información > Ejecutar de todas formas**. Pasa porque el instalador todavía no está firmado; solo se hace una vez.
 
-1. En [Releases](../../releases), descarga **`PokeSurvivor-Beta-windows.zip`**.
-2. Haz clic derecho sobre el zip > **Extraer todo…**, y extráelo en tu carpeta de usuario, por ejemplo en `Documentos`. **No lo pongas en "Archivos de programa"**: ahí no se podría actualizar sola.
-3. Abre la carpeta `PokeSurvivor-Beta` y haz doble clic en `PokeSurvivor-Beta.exe`.
-4. Si Windows muestra "Windows protegió su PC", pulsa **Más información > Ejecutar de todas formas**. Solo pasa la primera vez.
+Para quitarlo: **Configuración > Aplicaciones > PokéSurvivor Beta > Desinstalar**. Tu partida guardada no se borra.
+
+<details><summary>Sin instalador (zip)</summary>
+
+Descarga **`PokeSurvivor-Beta-windows.zip`**, haz clic derecho > **Extraer todo…** en tu carpeta de usuario (por ejemplo `Documentos`, **no** en "Archivos de programa", ahí no se podría actualizar sola) y abre `PokeSurvivor-Beta.exe`.
+</details>
 
 ---
 
@@ -57,7 +61,7 @@ Esa versión todavía no sabía actualizarse sola: su botón se llamaba "Descarg
 1. Cierra el juego.
 2. Descarga la última versión desde [Releases](../../releases).
 3. **Mac:** arrastra la nueva `PokeSurvivor-Beta` a Aplicaciones y pulsa **Reemplazar**.
-   **Windows:** borra la carpeta `PokeSurvivor-Beta` vieja y extrae la nueva en el mismo sitio.
+   **Windows:** ejecuta el instalador nuevo (o, si usabas el zip, borra la carpeta `PokeSurvivor-Beta` vieja y extrae la nueva en el mismo sitio).
 4. Ábrela. En la esquina de abajo a la derecha debe poner **v1.5.2 · Beta …** o más.
 
 Tu partida no se pierde: está guardada aparte, no dentro de la app. A partir de aquí, todas las actualizaciones son con un clic.

@@ -1,6 +1,6 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-19T00:31:43Z",
+  "actualizado": "2026-10-19T04:16:00Z",
   "protocolo_coop": 3,
   "minimo": 0,
   "descargas": {
@@ -18,14 +18,14 @@
     },
     "windows": {
       "version": "v1.6.18",
-      "build": 209,
-      "commit": "1f9f7a2",
-      "fecha": "2026-10-19T00:31:43Z",
-      "notas": "Grupo: quien elige carta, objeto o vínculo ya no ataca ni recibe daño; las trampas saltan cerca de cualquier jugador. Pokémoneda del suelo rediseñada. Incluye la partida de 15 min y los arreglos de tirones y memoria.",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-209/PokeSurvivor-Beta-windows.zip",
-      "sha256": "afce4cb61c54b94a3f32335dab36dbe1e90d4f37d8c115e767cf176681dd0ed2",
-      "tam": 91974856,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-209",
+      "build": 210,
+      "commit": "3c345ad",
+      "fecha": "2026-10-19T04:16:00Z",
+      "notas": "Grupo: los invitados ven a enemigos y compañeros sin tirones; nuevo aviso al caer y reanimar; indicadores del borde rediseñados (compañeros, caídos, grieta y shinys). Shinys con destellos. Los jefes siempre dan tickets. Menos microtirones en partida.",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-210/PokeSurvivor-Beta-windows.zip",
+      "sha256": "9ad9608c45697791c9e716ab20fd76d05e92a26163608c10eaff05e15082b8c2",
+      "tam": 91994424,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-210",
       "protocolo_coop": 3
     }
   }

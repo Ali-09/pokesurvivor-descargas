@@ -1,6 +1,6 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-19T04:16:00Z",
+  "actualizado": "2026-10-19T04:54:49Z",
   "protocolo_coop": 3,
   "minimo": 0,
   "descargas": {
@@ -18,14 +18,14 @@
     },
     "windows": {
       "version": "v1.6.18",
-      "build": 210,
-      "commit": "3c345ad",
-      "fecha": "2026-10-19T04:16:00Z",
-      "notas": "Grupo: los invitados ven a enemigos y compañeros sin tirones; nuevo aviso al caer y reanimar; indicadores del borde rediseñados (compañeros, caídos, grieta y shinys). Shinys con destellos. Los jefes siempre dan tickets. Menos microtirones en partida.",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-210/PokeSurvivor-Beta-windows.zip",
-      "sha256": "9ad9608c45697791c9e716ab20fd76d05e92a26163608c10eaff05e15082b8c2",
-      "tam": 91994424,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-210",
+      "build": 211,
+      "commit": "2f0e598",
+      "fecha": "2026-10-19T04:54:49Z",
+      "notas": "Aviso al conectar o desconectar un mando (con su icono: PlayStation, Xbox u otro) e indicador de teclado/mando arriba. El stick derecho apunta directo. Modales revisados en todos los tamaños de ventana (panorámica, 4:3, vertical, maximizada). Shinys propios con destellos discretos.",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-211/PokeSurvivor-Beta-windows.zip",
+      "sha256": "78dd9a0d29b43d13a5fc0f31e09c9c16284d5f56d405d0050f6a85efd2a4d092",
+      "tam": 92008112,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-211",
       "protocolo_coop": 3
     }
   }

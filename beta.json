@@ -1,20 +1,20 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-19T05:13:20Z",
+  "actualizado": "2026-10-19T21:16:36Z",
   "protocolo_coop": 3,
   "minimo": 0,
   "descargas": {
     "mac": {
-      "version": "v1.6.17",
-      "build": 197,
-      "commit": "56a2f87",
-      "fecha": "2026-10-18T02:48:08Z",
-      "notas": "v1.6.17: música y efectos como en la web; Jugar te regresa a la sala; menús de Ajustes y Pokémon arreglados en Windows; los enemigos ya no siguen al jugador caído; amigos conectados desde el arranque",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-197/PokeSurvivor-Beta-mac.zip",
-      "sha256": "2a5ebb51e5ccf6853729435e4282c5def6b5e08bdc7cdf2f98ca4a0970bf6fa7",
-      "tam": 93693892,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-197",
-      "protocolo_coop": 2
+      "version": "v1.6.18",
+      "build": 215,
+      "commit": "bb4fd94",
+      "fecha": "2026-10-19T21:16:36Z",
+      "notas": "Windows: ahora con instalador .exe",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-215/PokeSurvivor-Beta-mac.zip",
+      "sha256": "68719b46e856462c69144962b953eaf3224c677590ffe33c4edbb0214e6671fa",
+      "tam": 93789556,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-215",
+      "protocolo_coop": 3
     },
     "windows": {
       "version": "v1.6.18",

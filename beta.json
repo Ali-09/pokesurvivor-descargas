@@ -1,6 +1,6 @@
 {
   "canal": "beta",
-  "actualizado": "2026-10-19T04:54:49Z",
+  "actualizado": "2026-10-19T05:13:20Z",
   "protocolo_coop": 3,
   "minimo": 0,
   "descargas": {
@@ -18,14 +18,14 @@
     },
     "windows": {
       "version": "v1.6.18",
-      "build": 211,
-      "commit": "2f0e598",
-      "fecha": "2026-10-19T04:54:49Z",
-      "notas": "Aviso al conectar o desconectar un mando (con su icono: PlayStation, Xbox u otro) e indicador de teclado/mando arriba. El stick derecho apunta directo. Modales revisados en todos los tamaños de ventana (panorámica, 4:3, vertical, maximizada). Shinys propios con destellos discretos.",
-      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-211/PokeSurvivor-Beta-windows.zip",
-      "sha256": "78dd9a0d29b43d13a5fc0f31e09c9c16284d5f56d405d0050f6a85efd2a4d092",
-      "tam": 92008112,
-      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-211",
+      "build": 212,
+      "commit": "1885691",
+      "fecha": "2026-10-19T05:13:20Z",
+      "notas": "Mando en todas las pantallas: objeto, vínculo, Cambiar opciones, Seguir jugando, invitaciones y actualización. Cartel al elegir movimiento, mejora u objeto, como el de la habilidad.",
+      "url": "https://github.com/Ali-09/pokesurvivor-descargas/releases/download/beta-212/PokeSurvivor-Beta-windows.zip",
+      "sha256": "2b5c4644780499cdf0d5aa7a58d6230bb35a1dedbf8f635f91ff2b8c142627ec",
+      "tam": 92013642,
+      "pagina": "https://github.com/Ali-09/pokesurvivor-descargas/releases/tag/beta-212",
       "protocolo_coop": 3
     }
   }
